@@ -1,0 +1,1 @@
+C:\Users\Tunahan\BrainGymPart1\target\debug\BrainGymPart1.exe: C:\Users\Tunahan\BrainGymPart1\src\main.rs C:\Users\Tunahan\BrainGymPart1\src\project1.rs C:\Users\Tunahan\BrainGymPart1\src\project2.rs C:\Users\Tunahan\BrainGymPart1\src\project3.rs C:\Users\Tunahan\BrainGymPart1\src\project4.rs C:\Users\Tunahan\BrainGymPart1\src\project5.rs
